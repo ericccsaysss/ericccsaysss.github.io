@@ -1,0 +1,11 @@
+# Site settings
+title: The Linux Cafe
+email: eric@thelinuxcafe.com
+description: I am who only I can be.
+baseurl: ""
+url: "http://thelinuxcafe.com/"
+github_username:  ericccsaysss
+linkedin_username: eric-arellano-6832b51b
+
+# Build settings
+markdown: kramdown
