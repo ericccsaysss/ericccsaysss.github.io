@@ -9,7 +9,7 @@ permalink: /resume/
 
 # Linux System Administrator & DevOps Enthusiast
 
-[thelinuxcafe.com][thelc] \| [eric@thelinuxcafe.com](mailto:eric@thelinuxcafe.com) \| 602.708.2236
+[thelinuxcafe.com][thelc] \| [eric@thelinuxcafe.com](mailto:eric@thelinuxcafe.com)
 
   I am a loyal and dedicated professional, seeking a career that allows me to be
   challenged and use my skills to succeed in finding a solution. My ability to focus and
