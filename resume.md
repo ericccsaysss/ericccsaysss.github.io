@@ -61,10 +61,11 @@ Graphic Designer \| **2006 to 2007**
 
 ---
 
-### Projects
-  - This
-  - and
-  - that
+### Education
+
+**Linux Professional 2013 to 2007**
+
+Mesa Community College, Mesa, Arizona
 
 ---
 
@@ -72,9 +73,3 @@ Graphic Designer \| **2006 to 2007**
 
 - Phoenix Linux User Group: Install-fests, Phoenix, AZ
 - Ham Radio Operator, Maricopa County Emergency Communications Group, Arizona
-
-### Education
-
-**Linux Professional 2013 to 2007**
-
-Mesa Community College, Mesa, Arizona
