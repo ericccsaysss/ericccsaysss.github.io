@@ -48,16 +48,16 @@ Unix Administrator II \| **2013 to present**
 
 Machine Operator \| **2007 to 2013**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-  Cras ornare at lectus at efficitur. Fusce tincidunt ipsum quis eros ultrices tincidunt. Morbi semper, ipsum id tincidunt volutpat, magna nibh sollicitudin enim, eget volutpat leo eros quis leo. Nulla finibus convallis magna. Etiam lectus mi, vehicula vitae enim nec, elementum vulputate diam. Sed orci nisl, lacinia sit amet orci eget, consectetur tincidunt elit. Donec metus enim, blandit eget luctus eget, volutpat eget metus. Pellentesque id dui sit amet sem congue molestie. Praesent ut malesuada dui, in tristique ante. Aliquam erat volutpat. Mauris eget dolor nisl. Mauris mauris dui, pulvinar at nisi nec, pulvinar scelerisque lorem. Aliquam ac orci non quam dapibus fermentum.
+  - Running and maintenance of production machinery
+  - Communications between multiple departments to ensure project completion
+  - Implemented automated processes to shorten project completion time
 
 #### **Flood The Desert Church**
 Graphic Designer \| **2006 to 2007**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-  Cras ornare at lectus at efficitur. Fusce tincidunt ipsum quis eros ultrices tincidunt. Morbi semper, ipsum id tincidunt volutpat, magna nibh sollicitudin enim, eget volutpat leo eros quis leo. Nulla finibus convallis magna. Etiam lectus mi, vehicula vitae enim nec, elementum vulputate diam. Sed orci nisl, lacinia sit amet orci eget, consectetur tincidunt elit. Donec metus enim, blandit eget luctus eget, volutpat eget metus. Pellentesque id dui sit amet sem congue molestie. Praesent ut malesuada dui, in tristique ante. Aliquam erat volutpat. Mauris eget dolor nisl. Mauris mauris dui, pulvinar at nisi nec, pulvinar scelerisque lorem. Aliquam ac orci non quam dapibus fermentum.
+  - Maintained a website with news and event updates
+  - Managed weekly flyers
+  - Designed special event flyers and banners
 
 ---
 
@@ -67,6 +67,11 @@ Graphic Designer \| **2006 to 2007**
   - that
 
 ---
+
+### Volunteering
+
+- Phoenix Linux User Group: Install-fests, Phoenix, AZ
+- Ham Radio Operator, Maricopa County Emergency Communications Group, Arizona
 
 ### Education
 
