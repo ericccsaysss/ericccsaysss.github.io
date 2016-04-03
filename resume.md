@@ -63,7 +63,7 @@ Graphic Designer \| **2006 to 2007**
 
 ### Education
 
-**Linux Professional 2013 to 2007**
+**Linux Professional 2003 to 2007**
 
 Mesa Community College, Mesa, Arizona
 
