@@ -8,6 +8,8 @@ permalink: /projects/
 
 ### thelinuxcafe.com
 
+![thelinuxcafe.com screenshot]({{ site.url }}/assets/thelc-screenshot.png)
+
 This is the repo for this website. I wanted to play with jekyll and felt a need
 for some minimal level of web presence. Mix those two... you have this website.
 
@@ -27,6 +29,8 @@ This was a short talk at Puppet Camp AZ 2016 about how my team got Puppet Enterp
 ---
 
 ### Error Page
+
+![error-page screenshot]({{ site.url }}/assets/error-page-screenshot.png)
 
 I wanted to play with a quick and dirty splash page. I recently delt with a 'system maintenance' page at work and thought that could be a fun little thing to work on.
 
