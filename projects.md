@@ -25,3 +25,9 @@ This was a short talk at Puppet Camp AZ 2016 about how my team got Puppet Enterp
 
 
 ---
+
+### Error Page
+
+I wanted to play with a quick and dirty splash page. I recently delt with a 'system maintenance' page at work and thought that could be a fun little thing to work on.
+
+{% include icon-github.html %}[github.com/ericccsaysss/error-page](https://github.com/ericccsaysss/error-page)
