@@ -33,9 +33,10 @@ permalink: /resume/
 
 #### **LawLogix**
 
-Dev Ops Engineer \| **July 2016 to present**
+Dev Ops Engineer \| Phoenix, AZ \| **July 2016 to present**
 
 Position Responsibilities
+
   - Own and administer the infrastructure of two SaaS applications.
   - Create vision for infrastructure and proactively recommend strategies.
   - Implement solutions to automate the deployment of SaaS
@@ -48,7 +49,7 @@ Position Responsibilities
 
 #### **AppointmentPlus**
 
-Lead Unix Administrator \| **June 2013 to July 2016**
+Lead Unix Administrator \| Scottsdale, AZ \| **June 2013 to July 2016**
 
   - Management of service impacting changes
   - Mentor aka ‘sensei’ to fellow system admins
@@ -65,7 +66,7 @@ This position has been a quick evolving experience. Receiving multiple promotion
 
 #### **Vesta TR Corp**
 
-Machine Operator \| **2007 to June 2013**
+Machine Operator \| Scottsdale, AZ \| **2007 to June 2013**
 
   - Running and maintenance of production machinery
   - Communications between multiple departments to ensure project completion
@@ -74,7 +75,8 @@ Machine Operator \| **2007 to June 2013**
 During my employment with Vesta I learned what I consider my most valuable trait, troubleshooting. When there are a hundred places to start an investigation, find the point of failure or last known "good" and make your way towards resolution. Operating machinery offered that physical aspect of troubleshooting, allowing me to literally see what future jobs would require me to mentally perform.
 
 #### **Flood The Desert Church**
-Graphic Designer \| **2006 to 2007**
+
+Graphic Designer \| Scottsdale, AZ \| **2006 to 2007**
 
   - Maintained a website with news and event updates
   - Managed weekly flyers
