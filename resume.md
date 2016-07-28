@@ -31,9 +31,24 @@ permalink: /resume/
 
 ### Experience
 
+#### **LawLogix**
+
+Dev Ops Engineer \| **July 2016 to present**
+
+Position Responsibilities
+  - Own and administer the infrastructure of two SaaS applications.
+  - Create vision for infrastructure and proactively recommend strategies.
+  - Implement solutions to automate the deployment of SaaS
+  - Implement monitoring solutions to provide visibility with a focus on high availability.
+  - Respond to monitoring alarms and coordinate resources to resolve.
+  - Troubleshoot and resolve infrastructure and load issues.
+  - Work directly with Development, QA Team Leads and Engineering Teams.
+  - Lead the deployment lifecycle of the application.
+  - Collaborate with Scrum teams to ensure successful execution.
+
 #### **AppointmentPlus**
 
-Lead Unix Administrator \| **2013 to present**
+Lead Unix Administrator \| **June 2013 to July 2016**
 
   - Management of service impacting changes
   - Mentor aka ‘sensei’ to fellow system admins
@@ -45,17 +60,17 @@ Lead Unix Administrator \| **2013 to present**
   - Branched a gap between ITOps and other departments
   - Assisted in a complete infrastructure migration
   - Managed ~300 linux servers
-  
-This position has been a quick evolving experience. Receiving multiple promotions starting from Systems Administrator, to Systems Administrator II, and now to my current position as Lead Unix Administrator. I’ve taken the reigns as a wealthy resource of information for my department, as well as many others within the company. 
+
+This position has been a quick evolving experience. Receiving multiple promotions starting from Systems Administrator, to Systems Administrator II, and now to my current position as Lead Unix Administrator. I’ve taken the reigns as a wealthy resource of information for my department, as well as many others within the company.
 
 #### **Vesta TR Corp**
 
-Machine Operator \| **2007 to 2013**
+Machine Operator \| **2007 to June 2013**
 
   - Running and maintenance of production machinery
   - Communications between multiple departments to ensure project completion
   - Implemented automated processes to shorten project completion time
-  
+
 During my employment with Vesta I learned what I consider my most valuable trait, troubleshooting. When there are a hundred places to start an investigation, find the point of failure or last known "good" and make your way towards resolution. Operating machinery offered that physical aspect of troubleshooting, allowing me to literally see what future jobs would require me to mentally perform.
 
 #### **Flood The Desert Church**
