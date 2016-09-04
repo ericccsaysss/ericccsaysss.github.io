@@ -7,7 +7,6 @@ permalink: /projects/
 ---
 
 ### thelinuxcafe.com
-*testlineforstuff*
 
 ![thelinuxcafe.com screenshot]({{ site.url }}/assets/thelc-screenshot.png)
 
