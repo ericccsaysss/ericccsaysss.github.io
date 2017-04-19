@@ -31,11 +31,13 @@ permalink: /resume/
 
 ### Experience
 
+#### **AppointmentPlus**
+
+Lead DevOps Engineer \| Scottsdale, AZ \| **January 2017 to Present**
+
 #### **LawLogix**
 
-Dev Ops Engineer \| Phoenix, AZ \| **July 2016 to present**
-
-Position Responsibilities
+Dev Ops Engineer \| Phoenix, AZ \| **July 2016 to January 2017**
 
   - Own and administer the infrastructure of two SaaS applications.
   - Create vision for infrastructure and proactively recommend strategies.
