@@ -4,10 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-## Email
-```
-eric@thelinuxcafe.com
-```
+**Email:** `eric@thelinuxcafe.com`
 
 ---
 ## PGP Public Key
