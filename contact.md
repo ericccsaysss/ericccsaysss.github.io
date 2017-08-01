@@ -11,6 +11,18 @@ eric@thelinuxcafe.com
 
 ---
 ## PGP Public Key
+I currently use a nifty project called [Keybase](https://keybase.io/err0r1c).
+I highly suggest taking a look!
+
+Features include...
+ - chat via electron application
+ - chat via browser extensions
+ - command line
+ - file sharing
+ - social media account verification
+
+**Fingerprint:** `F037 0CBB 4A8A F7AE 9356 7EC5 2D6D EE78 B5F2 27FA`
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
