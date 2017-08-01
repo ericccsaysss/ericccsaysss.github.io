@@ -1,7 +1,7 @@
 ---
 layout: page
-title: key
-permalink: /key
+title: Contact
+permalink: /contact
 ---
 
 ## Email
