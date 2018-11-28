@@ -5,6 +5,7 @@ permalink: /contact
 ---
 
 **Email:** `eric@thelinuxcafe.com`
+
 **Keybase:** [err0r1c](https://keybase.io/err0r1c)
 
 ---
