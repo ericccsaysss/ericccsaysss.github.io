@@ -20,7 +20,6 @@ permalink: /resume/
 ### Technical
   - Bash, PHP, Ruby, Markdown
   - Ansible, Puppet, Chef, Cloud Config
-  - MySQL
   - Git
   - Vagrant, Docker, Jelasic, RS Cloud
   - MySQL
@@ -32,7 +31,7 @@ permalink: /resume/
 #### **AppointmentPlus**
 
 Lead DevOps Engineer \| Scottsdale, AZ \| **January 2017 to Present**
-  - Ownship over configuration management from conception to production. 
+  - Ownership over configuration management from conception to production. 
   - Bridge gaps between departments in IT.
   - Development of internal tools.
   - Key role in the creation of self service infrastructure build tool.
