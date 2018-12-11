@@ -23,6 +23,7 @@ permalink: /resume/
   - Git
   - Vagrant, Docker, Jelasic, RS Cloud
   - MySQL
+  - Perpetual Learner
 
 ---
 
